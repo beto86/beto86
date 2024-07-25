@@ -2,7 +2,7 @@
 <h3 align="left">Analista de Dados</h3>
 
 Sou certificado em Python e formado em Ciências da Computação pela UTFPR. Gosto muito de análise de dados, usando SQL e ferramentas como Power BI para criar indicadores e visualizações que ajudam nas decisões estratégicas. Atualmente, trabalho como Analista de Dados em uma empresa focada no agronegócio.
-Além disso, sou apaixonado por Desenvolvimento Web e Linux. Sempre que possível, desenvolvo aplicações em Python e Django, com HTML, Bootstrap e outras ferramentas e linguagens. Estou sempre buscando novos desafios e aprendizados contínuos, como os desafios de laboratório da DIO.
+Além disso, sou apaixonado por Desenvolvimento Web e Linux. Sempre que possível, desenvolvo aplicações em Python e Django, com HTML, Bootstrap e outras ferramentas e linguagens. Estou sempre buscando novos desafios e aprendizados contínuos.
 
 ## GitHub Stats
 <div>
